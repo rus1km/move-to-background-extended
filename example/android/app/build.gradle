@@ -59,6 +59,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.sayegh.move_to_background_example'
 }
 
 flutter {
