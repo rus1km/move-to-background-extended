@@ -89,3 +89,6 @@ lint/tmp/
 
 # Visual Studio Code related
 .vscode/
+
+# FVM Version Cache
+.fvm/
