@@ -1,1 +1,14 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+plugins {
+    id "com.android.library" version "8.8.0" apply false
+    id "org.jetbrains.kotlin.android" version "2.0.10" apply false
+}
+
 rootProject.name = 'move_to_background'
